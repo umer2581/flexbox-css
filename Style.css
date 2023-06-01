@@ -19,3 +19,8 @@
     background: green;
     flex-shrink: 4;
 }
+.body{
+
+    background: #000;
+    background-color: aqua;
+}
